@@ -12,11 +12,7 @@ For this project I used :
 - ILLUSTRATOR
 !! THIS PROJECT ONLY WORK ON GOOGLE CHROM !!
 
-_______________________
 
-MOTIVATION :
-_______________________
-Because I love football, I don't have PS4  and XBOX ONE in order to play FIFA 17,  I decided to start designing myself FIFA 18 only for me.
 
 _______________________
 

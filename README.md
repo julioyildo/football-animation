@@ -1,7 +1,7 @@
 First of all I would like to thank Mr. Bruno Simon for giving us this project to force us develop our skills, and the various websites that have helped me and released me understand how to design a sun and clouds.
 
 By Serhat YILDIRIM
-Copyright (c) 2016 Copyright Holder All Rights Reserved.
+
 _______________________
 
 TECHNOLOGIES / DESIGN:
